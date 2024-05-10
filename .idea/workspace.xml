@@ -4,107 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e25f9b17-42ec-42b6-ab67-604a1509bd89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Structures_sheet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/adjacent_by_k.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/com_in_3sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/count_sort_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/countsort_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/floor_ceil_pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/pair_with_diff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_sort1/ss1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/count_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/long_cmn_prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/nokia_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/parenthisis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/remove_cnse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String1/valid_pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/choclate_Dist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/max_sub_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/min_max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/rev_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/rotated_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array1/string_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/Merge_overlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/bit_space_optim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/form_big_no.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/max_product_sub_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/merge_to_pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/min_rotated_sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/next_permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/pair_if_der.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/product_e_self.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/repeat_miss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/stock_buy_sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/thr_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/trapping_rain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2/water_container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/bt_to_bst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/inverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/isomorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/leaf_same_level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/left_view.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/list_levels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/max_height.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/mirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/revr_order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/right_view.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/same_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/sub_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bianry_tree1/zigziag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/bt_to_bst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/dead_end.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/kth_largerst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/lcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/min_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/pre_succ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_search1/srch_tre_create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bit_prac/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bit_prac/Odd_Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bit_prac/get_i_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bit_prac/right_bit_pos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bit_prac/st_i_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp1/knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp_learn/stairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp_learn/stairs_kjump_wgt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp_learn/stairs_weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/flood_fill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/actively_select.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/eql_sum_3_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/min_coin_all_coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/min_no_coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/min_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy1/sum_diff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/delete_wo_head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/ll_operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/remove_dup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_list1/sort_0_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/bst_to_balanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/rec_fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack1/de_queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack1/stk_qu_dqu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack1/two_stack_one_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string2/long_sbstring.java" afterDir="false" />
+    <list default="true" id="e25f9b17-42ec-42b6-ab67-604a1509bd89" name="Changes" comment="Data Structure and Algorithms">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +55,31 @@
       <option name="presentableId" value="Default" />
       <updated>1695454974293</updated>
     </task>
+    <task id="LOCAL-00001" summary="Data Structure and Algorithms">
+      <option name="closed" value="true" />
+      <created>1715333457872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715333457872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Structure and Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structure and Algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
